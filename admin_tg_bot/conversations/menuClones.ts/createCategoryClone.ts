@@ -1,0 +1,21 @@
+export function createCategoryClone(conversation: any) {
+    return conversation.menu("create_category")
+        .text("Категория")
+        .text("Город")
+        .row()
+        .text("Район")
+        .text("Название")
+        .row()
+        .text("Количество")
+        .text("Ед. измерения")
+        .row()
+        .text("Цена")
+        .text("Ссылки")
+        .row()
+        .text("Производитель")
+        .text("Доставщик")
+        .row()
+        .text("✅ Готово")
+        .row()
+        .back("◀️ Назад");
+}   

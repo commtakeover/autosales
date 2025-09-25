@@ -1,0 +1,476 @@
+
+=== POST / Request ===
+Timestamp: 2025-07-23T08:17:04.552Z
+Method: POST
+URL: /
+Body:
+undefined
+======================
+
+=== POST / Request ===
+Timestamp: 2025-07-23T08:23:22.499Z
+Method: POST
+URL: /
+Body:
+undefined
+======================
+
+=== POST / Request ===
+Timestamp: 2025-07-23T08:57:34.981Z
+Method: POST
+URL: /?data={kekW:%20%27kekW%27}
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 10
+    },
+    "kekW": "kekW",
+    "lolkek": "lolkek"
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:10:49.308Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 1.6801847469290885,
+      "direction": "incoming",
+      "address": "ltc1q8n70xrgtyexzbesgz9ztnq56fz45h02k9z1",
+      "tx": "59d2147c42d3f3af37604af8f40be5091b7ef926562a8109275d8075564f2863"
+    },
+    "idempotencyKey": "mgcvswn53cyhaiebmrqii"
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:19:37.017Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 0.4373712197150224,
+      "direction": "incoming",
+      "address": "ltc1qy87exjkj2c5fi9q0vtga5a3gfeso4upbq8x",
+      "tx": "247b59832cc715686a159d1e1521b80db78a7c7edc01849d5e2efd41c91effb5"
+    },
+    "idempotencyKey": "rz6dpke513pn8g60kfsusr"
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:24:22.802Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 1.3291399741016352,
+      "direction": "incoming",
+      "address": "ltc1qpfdcfsndt77d217l1ctsduo0o3goolrmgnx",
+      "tx": "a85dd83934ce7b38f574f386606519f695610dcca192221aca65f68f9679e571"
+    },
+    "idempotencyKey": "tdzmj8xh9wpy9orsd5au"
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:25:06.123Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 0.8090962031110429,
+      "direction": "incoming",
+      "address": "ltc1qbo721sxh1f91kv9in68x7nfk54wj6v5q6js",
+      "tx": "72820d93519bb232bcf181e3a54a046aed50484fe5724f6d3463514de5a0cc63"
+    },
+    "idempotencyKey": "xekw4legcnx9xxneum2rg"
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:26:13.250Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 1.192662826552735,
+      "direction": "incoming",
+      "address": "ltc1qeryuzuxh4ng490pxpc3d3yz9dj9xd7wql5b",
+      "tx": "07ae73c7dfa28afd6ab26fa77a0121308d193a2bf247ab8f4b1fe235915dc30d"
+    }
+  },
+  "idempotencyKey": "r26szwx767hu6avewrb3d"
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:31:21.037Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 0.9881516523815315,
+      "direction": "incoming",
+      "address": "ltc1qxumyxf6wps9rn02regjemqkbfmgsuhvsu00",
+      "tx": "f6395a57de303f067f1ba836ae3530bc5eebfb5fd8182aa9cd0c7ba82f9bdbdc"
+    }
+  },
+  "idempotencyKey": "irsuf12b298105zdxi4if3"
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:35:27.665Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 0.6786813424060549,
+      "direction": "incoming",
+      "address": "ltc1q2p0eg2lz2ukgpmhw0gxzh7pjgywcf5ueadpn4v",
+      "tx": "81bb6ebb0997b68cccfb00a762afba2af0f82a627f6be5b5de0fd937c562c1fb"
+    }
+  },
+  "idempotencyKey": "oci2u6v09d3utlk51q0lc"
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-13T09:35:28.387Z
+Method: POST
+URL: /
+Body:
+{
+  "data": {
+    "item": {
+      "amount": 1.7012399490060086,
+      "direction": "incoming",
+      "address": "ltc1q2p0eg2lz2ukgpmhw0gxzh7pjgywcf5ueadpn4v",
+      "tx": "f4c3d7f4e4347bcdb803e98fea87632a177d5b23de300095a87d9a62d0d60bfd"
+    }
+  },
+  "idempotencyKey": "g1z0wr423hflog9u33w2hm"
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T11:15:17.298Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "9a99818a06ba0bdc5d97d644e1f49d77c9667d83696f2b019c5bf883d9e7493e",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970140,
+        "hash": "b1f2a696fffcce50109c357c08c85c31acebe6d687f7bf5b7a2afbb02de5571f",
+        "timestamp": 1758192687
+      },
+      "transactionId": "0278694fce1852438c08f5a2c96f4c3f00fc364cb082ea415403f2297d46a86e",
+      "amount": "0.017858",
+      "unit": "LTC",
+      "direction": "incoming"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T11:25:57.808Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "393d5108dbe038dcaaa932ce9aed63f2e96c7761d33c1590284d68e65c96a6c8",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970150,
+        "hash": "a0c8ef58d0e124b25e8ce5d0cc9d35ab87b6d17c71b3adcb3152b99a9f02bd8a",
+        "timestamp": 1758194659
+      },
+      "transactionId": "7a2f53b0d00c47f4d811ed88395daa251de5187383114062b0f55091fbebc5bf",
+      "amount": "0.017858",
+      "unit": "LTC",
+      "direction": "outgoing"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T11:30:37.524Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "49804d3d844d2fd1217ee92bd34acfe7057da7f004ecbbea609f4f0f4a32f373",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970153,
+        "hash": "336ede0a8d9fc0c394d0d504cc45e5f826ad06506e845ec14f41fc2210ae5658",
+        "timestamp": 1758194855
+      },
+      "transactionId": "5d0629f5b02c6b3e96e676eb90929e00f59bf0fe0fd6d3b36b48c585105acf6c",
+      "amount": "0.01784866",
+      "unit": "LTC",
+      "direction": "incoming"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:03:59.747Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "85ef7ea68701d133771d4f7114a049c4f9ab1c23cf0ddcceb200df7f27b41d9f",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970169,
+        "hash": "dd50780e06f55347abaaf5223d8b69ac872366b64cb0bc2a97f9374340a4fa3d",
+        "timestamp": 1758196722
+      },
+      "transactionId": "bf5e74c4eefbbcde555f985ea9b718bbf058391a22eced036a5c6dcab3a54b80",
+      "amount": "0.01784866",
+      "unit": "LTC",
+      "direction": "outgoing"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:05:15.536Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "d00c59eee2cdc1c11de4df0c1c89b4a7601f6f3ab0fd52f856186f311051c9c3",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970171,
+        "hash": "c3caaa685fbe7aabab6dede4de1a1b569427b8d3aed6944e2d52a4085aeab088",
+        "timestamp": 1758196983
+      },
+      "transactionId": "e8cfa9d8889cefea0849de712cea32131645cecaf1cb6d0c51e232a446bbbc2d",
+      "amount": "0.01783932",
+      "unit": "LTC",
+      "direction": "incoming"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:16:41.213Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "f9d468c3bd4c3c82a9d61a83e4f54f6eed8117254aa660f0f5715fb8e253832a",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970173,
+        "hash": "2719a6e4d93157452aff13c1513e2a548a33d0bfdb3a5559a70a7da69924ec97",
+        "timestamp": 1758197383
+      },
+      "transactionId": "1fda819566016c7d9255f2bdb071f9b37e103404d50e7372e4750b7aeebbb0c5",
+      "amount": "0.01783932",
+      "unit": "LTC",
+      "direction": "outgoing"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:22:52.086Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "2504768475e8ba0e646bc6ca85c3dcce48462e3e443942c9cfb40ea9e51f50f9",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970174,
+        "hash": "febf57d495c89961321af23c2b4527be4018c8bf26af097e1bc263e5fc4a81ef",
+        "timestamp": 1758197680
+      },
+      "transactionId": "9f41b4dfea1ebb70ec85b24ef93398e7dca2c72e12eb1a6c2d925d87142a087f",
+      "amount": "0.01782998",
+      "unit": "LTC",
+      "direction": "incoming"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:30:57.678Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "b3310fef90daf2dd2645385ebffb496ef0eeba7160c8724788e490907818a826",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970182,
+        "hash": "d6df438840bec26c2fd5d54c5c5e206a981b114c4738d61d98b76c2d132a9715",
+        "timestamp": 1758198474
+      },
+      "transactionId": "d327af37986acbe033a66837828ab3bcb56c0614237cea57c25571343d3d7f0a",
+      "amount": "0.01782998",
+      "unit": "LTC",
+      "direction": "outgoing"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T12:44:34.996Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "3524ecd647acc7625b4a8949c89ea4ee86255c0f0e99b803132ac26cfe52683e",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970184,
+        "hash": "a8a2d093e8f4ee0a570f22ffe5d3aa280825fa436e6eb555cbcf6de94b820ede",
+        "timestamp": 1758199196
+      },
+      "transactionId": "bb97fc96a6e543731971719ac5e0cc4e7c3266d04636462e608306a3a29c6da7",
+      "amount": "0.01782064",
+      "unit": "LTC",
+      "direction": "incoming"
+    }
+  }
+}
+======================
+
+=== POST / Request ===
+Timestamp: 2025-09-18T13:26:36.607Z
+Method: POST
+URL: /
+Body:
+{
+  "apiVersion": "2024-12-12",
+  "referenceId": "facabe63-f193-4f06-a63d-06f5d47376da",
+  "idempotencyKey": "29b2b5548fe76957b9f9127cfef3fd5cd758a32083157ef2855146b0e978657b",
+  "data": {
+    "product": "BLOCKCHAIN_EVENTS",
+    "event": "ADDRESS_COINS_TRANSACTION_CONFIRMED",
+    "item": {
+      "blockchain": "litecoin",
+      "network": "mainnet",
+      "address": "ltc1qt4688tcc2sva5m6mr7upkk0pw2aavrt2r693zx",
+      "minedInBlock": {
+        "height": 2970191,
+        "hash": "87697d6e09799468d9062e94d6964a32b8ed9a38b47dd6193d648d4d9cb88bab",
+        "timestamp": 1758201452
+      },
+      "transactionId": "6818d069539902dc611a16f636119883911d5a35eaae881d962f4db0d22b9ee5",
+      "amount": "0.01782064",
+      "unit": "LTC",
+      "direction": "outgoing"
+    }
+  }
+}
+======================
